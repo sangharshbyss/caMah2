@@ -1,0 +1,471 @@
+1712671948015	geckodriver	INFO	Listening on 127.0.0.1:37585
+1712671948019	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu3Ah8O"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712671948195	Marionette	INFO	Marionette enabled
+1712671948238	Marionette	INFO	Listening on port 36247
+WebDriver BiDi listening on ws://127.0.0.1:48017
+Read port: 36247
+1712671948413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48017/devtools/browser/3b608d2b-83f7-4e76-9b98-1ee913732ec4
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:12:50.217: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:13:44.245: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:14:08.057: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:17:08.575: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:18:15.621: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:18:51.205: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:19:48.325: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:21:10.245: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:21:29.080: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:21:54.223: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:23:12.540: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:23:37.906: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:24:59.716: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:25:11.037: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:26:14.052: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:26:21.123: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:26:35.145: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:28:27.779: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:28:41.608: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+[Parent 15298, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15298): GLib-GObject-CRITICAL **: 16:29:25.418: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+JavaScript warning: https://citizen.mahapolice.gov.in/Citizen/JS/jquery.js, line 3686: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://citizen.mahapolice.gov.in."

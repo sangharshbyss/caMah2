@@ -69,7 +69,7 @@ def main():
     ch.setLevel(logging.WARNING)
     logger.addHandler(ch)
 
-    start = datetime.date(2024, 1, 15)
+    start = datetime.date(2024, 1, 21)
     end = datetime.date(2024, 1, 31)
 
     download_dir = Path(f'/home/sangharsh/Documents/PoA/'
@@ -139,9 +139,10 @@ def main():
             if each_district.each_page():
                 pass
             else:
-                start += datetime.timedelta(3)
                 continue
         start += datetime.timedelta(3)
+
+    logger.info("all districts in given time frame finished finished. ")
 
 
 if __name__ == "__main__":

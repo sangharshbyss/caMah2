@@ -71,8 +71,9 @@ class EachDistrict:
                     '1')))
             logger.info("search clicked. records found")
             return True
-        except (TimeoutError, NoSuchElementException):
-            # add to remaning district - code to be added later.
+        except (TimeoutError, NoSuchElementException,
+                TimeoutException, StaleElementReferenceException):
+            # add to remaining district - code to be added later.
             logger.info("page did not load after search", exc_info=True)
             return False
 
@@ -176,6 +177,12 @@ class EachDistrict:
                 self.driver.find_element(By.XPATH,
                                          next_page_link).click()
                 logger.info(f"p{i} clicked")
+            except (TimeoutError, TimeoutException, InvalidSessionIdException,
+                    NoSuchElementException,
+                    StaleElementReferenceException):
+                logger.info(f"pages finished. last page was p{i-1} ")
+                return True
+            try:
                 WebDriverWait(self.driver, 10).until(expected_conditions.text_to_be_present_in_element(
                     (By.ID, 'ContentPlaceHolder1_gdvDeadBody_lblSrNo_0'), f'{str(fifty)}'))
                 logger.info(f"p{i} loaded")
