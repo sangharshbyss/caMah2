@@ -120,7 +120,7 @@ class EachDistrict:
         df = df_with_last_rows.drop(df_with_last_rows.tail(2).index)
         file_name = f'{self.name}_{self.from_date}_{self.to_date}.csv'
         dir_name = Path(
-            f'/home/sangharsh/Documents/PoA/data/FIR/y_23/all_cases/'
+            f'/home/sangharsh/Documents/PoA/data/FIR/Year23/all_cases/'
             f'{self.from_date}_{self.to_date}')
         dir_name.mkdir(parents=True, exist_ok=True)
         df.to_csv(dir_name / file_name, index=False, mode='a', header=False)
@@ -130,7 +130,7 @@ class EachDistrict:
             # while for call cases district wise file is maintained
             # for selected cases date wise file of all districts is maintained.
             poa_file = f'poa_{self.from_date}_{self.to_date}.csv'
-            poa_dir_name = Path(f'/home/sangharsh/Documents/PoA/data/FIR/y_23/'
+            poa_dir_name = Path(f'/home/sangharsh/Documents/PoA/data/FIR/Year23/'
                                 f'poa_cases')
             poa_dir_name.mkdir(parents=True, exist_ok=True)
             poa_df.to_csv(poa_dir_name / poa_file,
@@ -146,12 +146,12 @@ class EachDistrict:
                       'to_date': str(self.to_date),
                       'number_of_record': [self.number_of_records()]}
         file_name = f'remaining_district_{self.from_date}_{self.to_date}.csv'
-        dir_name = Path(f'/home/sangharsh/Documents/PoA/data/FIR/y_23/remaining_districts')
+        dir_name = Path(f'/home/sangharsh/Documents/PoA/data/FIR/Year23/remaining_districts')
         dir_name.mkdir(parents=True, exist_ok=True)
         df = pd.DataFrame.from_dict(dictionary)
         df.to_csv(dir_name / file_name, mode='a', index=False, header=False)
 
-    # 9 turn pages in loop and does further processing
+    # 9 turn pages in loop and does further process
     def each_page(self):
         # before calling next page
         # this function stores data on 1st page and then iterate over all pages
@@ -162,7 +162,7 @@ class EachDistrict:
             self.df_to_file()
             self.check_and_download()
         except (NoSuchElementException,
-                TimeoutError,
+                TimeoutError, NoSuchElementException,
                 StaleElementReferenceException):
             self.remaining_district()
             logger.info("problem at p1")

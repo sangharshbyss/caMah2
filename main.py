@@ -1,36 +1,6 @@
 """
-Whole process :
-1. Outer loop with from and to dates
-1a. Inner loop iterating over all districts
-1a.1.open page (with refresh - this is requirement of the portal)
-1a.2. insert from and to dates
-1a.3. insert district
-1a.4. view - set to 50
-1a.5. Search
-1a.6. catch number of records (with output of these numbers)
-1a.7. if 1a.6>0 then crate csv of the table and separate csv with cell value of "x".
-1a.7.a check for cell with "x" values (internal iteration).
-If found click on links and download, iteratively.
-1a.8. if 1a.6>50 then look for page 2 link and click or else
-break and go to next iteration (district)
-1a.8.a. check if page loaded if yes go ahead or else check 5 times with interval of 1sec.
-if it still does not load break and go to next iteration (next district in this case)
-1a.9 repeat 1a.7
-1a.10 if 1a.6>100 then look for page 2 link and click or else
-break and go to next iteration (district)
-1a.11 repeat 1a8 followed by 1a.9
-1a.12 if 1a.6>150 then look for page 3 link and click or else
-break and go to next iteration (district)
-1a.13 repeat 1a8 followed by 1a.9
-1a.14 if 1a.6>200 then look for page 4 link and click or else
-break and go to next iteration (district)
-1a.15 repeat 1a8 followed by 1a.9
-1a.16 if 1a.6>250 then look for page 5 link and click or else
-break and go to next iteration (district)
-1a.17 repeat 1a8 followed by 1a.9
-1a.18 go to next district (iteration of 2 loop started at 1a).
+Visit the website. enter details. take the data.
 """
-
 import datetime
 import logging
 from pathlib import Path
@@ -56,21 +26,19 @@ all_districts = ['AHMEDNAGAR', 'AKOLA', 'AMRAVATI CITY', 'AMRAVATI RURAL', 'BEED
 
 
 def main():
-    # logging
-    logging_file = "info.log"
-    logging_dir = Path(f'/home/sangharsh/Documents/PoA/data/FIR/logging')
-    logging_dir.mkdir(parents=True, exist_ok=True)
     logger = logging.getLogger(__name__)
+    logging_file = "info.log"
+    logging_dir = Path(f'/home/sangharsh/Documents/PoA/data/FIR/Year23/logging')
+    logging_dir.mkdir(parents=True, exist_ok=True)
     logging.basicConfig(filename=logging_dir / logging_file,
                         format='%(name)s:: %(levelname)s:: %(asctime)s - %(message)s',
                         level=logging.INFO)
-    # create console handler and set level to info
     ch = logging.StreamHandler()
     ch.setLevel(logging.WARNING)
     logger.addHandler(ch)
 
-    start = datetime.date(2024, 1, 21)
-    end = datetime.date(2024, 1, 31)
+    start = datetime.date(2023, 1, 1)
+    end = datetime.date(2023, 6, 30)
 
     download_dir = Path(f'/home/sangharsh/Documents/PoA/'
                         f'data/FIR/FIR_copies/{start}_{end}')
@@ -102,40 +70,32 @@ def main():
     "network.http.use-cache", False)"""
     driver = webdriver.Firefox(options=options)
 
-    # while loop for defined period using start and end dates
     while start < end:
-        # create variable for to_date using time delta
         d2 = start + datetime.timedelta(2)
-        # covert to string
+        # covert to string. only string values can be inserted.
         from_date = start.strftime("%d%m%Y")
         to_date = d2.strftime("%d%m%Y")
         logger.info(f'\n\n{from_date} to {to_date}\n\n')
-        # iterate over each district
         for name in all_districts:
             each_district = dataCollection.EachDistrict(driver=driver,
                                                         from_date=from_date,
                                                         to_date=to_date,
                                                         name=name)
-            # open the page
             each_district.open_page(main_url=main_url)
-            # enter the date
             each_district.enter_date()
-            # enter name of the district
             each_district.district_selection()
-            # set view records to view 50 records per page
             each_district.view_record()
             logger.info(f'\n\nName of the District: {name}\n')
-            # click search and see if page is loaded
-            # if not, put the district in remaining district csv
-            # and start with new district
+            """click search and see if page is loaded, 
+            if not, put the district in remaining district csv, 
+            and start with new district"""
             if each_district.search():
                 pass
             else:
                 logger.info(f"Search button didn't work with {name}."
-                            f" Going to next district\n")
+                            f" Going to next district\n", exc_info=True)
                 each_district.remaining_district()
                 continue
-            # check the data on each page and store
             if each_district.each_page():
                 pass
             else:
