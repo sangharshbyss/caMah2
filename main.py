@@ -28,7 +28,7 @@ all_districts = ['AHMEDNAGAR', 'AKOLA', 'AMRAVATI CITY', 'AMRAVATI RURAL', 'BEED
 def main():
     logger = logging.getLogger(__name__)
     logging_file = "info.log"
-    logging_dir = Path(f'/home/sangharsh/Documents/PoA/data/FIR/Year23/logging')
+    logging_dir = Path(f'/home/sangharsh/Documents/codes/CaseAnalysis/caMah2/logging')
     logging_dir.mkdir(parents=True, exist_ok=True)
     logging.basicConfig(filename=logging_dir / logging_file,
                         format='%(name)s:: %(levelname)s:: %(asctime)s - %(message)s',
