@@ -79,10 +79,17 @@ class EachDistrict:
 
     # 7 check number of records
     def number_of_records(self):
-        total_number = self.driver.find_element(By.CSS_SELECTOR,
-                                                '#ContentPlaceHolder1_lbltotalrecord').text
-        logger.info(f'\nTotal number of Cases: {total_number}')
-        return total_number
+        try:
+            total_number = self.driver.find_element(By.CSS_SELECTOR,
+                                                    '#ContentPlaceHolder1_lbltotalrecord').text
+            logger.info(f'\nTotal number of Cases: {total_number}')
+            return total_number
+        except (NoSuchElementException,
+                TimeoutError, NoSuchElementException,
+                StaleElementReferenceException):
+            self.remaining_district()
+            logger.info("problem at p1")
+            return False
 
     # 8 check for particular act
     def check_and_download(self):
