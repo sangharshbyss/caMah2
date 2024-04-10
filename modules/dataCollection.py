@@ -150,8 +150,7 @@ class EachDistrict:
         # it also tries to store the number of record of cases each district had
         dictionary = {'District': [self.name],
                       'from_date': str(self.from_date),
-                      'to_date': str(self.to_date),
-                      'number_of_record': [self.number_of_records()]}
+                      'to_date': str(self.to_date)}
         file_name = f'remaining_district_{self.from_date}_{self.to_date}.csv'
         dir_name = Path(f'/home/sangharsh/Documents/PoA/data/FIR/Year23/remaining_districts')
         dir_name.mkdir(parents=True, exist_ok=True)
