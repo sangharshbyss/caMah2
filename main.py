@@ -84,20 +84,18 @@ def main():
             each_district.open_page(main_url=main_url)
             each_district.enter_date()
             each_district.district_selection()
-            if each_district.view_record():
-                logger.info(f'\n\nName of the District: {name}\n')
-            else:
-                continue
+            each_district.view_record()
             """click search and see if page is loaded, 
             if not, put the district in remaining district csv, 
             and start with new district"""
-            if each_district.search():
-                pass
+            if each_district.number_of_records():
+                logger.info(f'\n\nName of the District: {name}\n')
             else:
                 logger.info(f"Search button didn't work with {name}."
                             f" Going to next district\n", exc_info=True)
                 each_district.remaining_district()
                 continue
+            each_district.search()
             if each_district.each_page():
                 pass
             else:
