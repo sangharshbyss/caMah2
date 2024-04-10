@@ -7,3 +7,1747 @@ __main__:: INFO:: 2024-04-10 17:07:45,859 -
 
 Name of the District: AHMEDNAGAR
 
+modules.dataCollection:: INFO:: 2024-04-10 17:07:50,773 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:07:50,782 - 
+Total number of Cases: 147
+modules.dataCollection:: INFO:: 2024-04-10 17:07:50,782 - total number of records is : 147
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:07:53,497 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:07:56,801 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:07:56,814 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:07:56,814 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:07:59,510 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:08:02,552 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:08:02,559 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:08:02,559 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:08:05,094 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:08:05,097 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:08:10,104 - 
+
+Name of the District: AKOLA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:08:13,836 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:08:13,847 - 
+Total number of Cases: 112
+modules.dataCollection:: INFO:: 2024-04-10 17:08:13,847 - total number of records is : 112
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:08:16,759 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:08:20,208 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:08:20,219 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:08:20,219 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:08:22,878 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:08:25,950 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:08:25,964 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:08:25,964 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:08:26,656 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:08:26,659 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:08:33,059 - 
+
+Name of the District: AMRAVATI CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:08:38,137 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:08:38,145 - 
+Total number of Cases: 57
+modules.dataCollection:: INFO:: 2024-04-10 17:08:38,145 - total number of records is : 57
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:08:40,691 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:08:43,200 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:08:43,213 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:08:43,213 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:08:43,649 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:08:43,652 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:08:47,583 - 
+
+Name of the District: AMRAVATI RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:08:49,780 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:08:49,786 - 
+Total number of Cases: 154
+modules.dataCollection:: INFO:: 2024-04-10 17:08:49,786 - total number of records is : 154
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:08:52,493 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:08:57,318 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:08:57,330 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:08:57,330 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:08:59,997 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:09:03,206 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:09:03,218 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:09:03,218 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:09:05,870 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:09:09,836 - p4 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:09:09,848 - p4 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:09:09,848 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:09:10,186 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:09:10,190 - pages finished. last page was p4 
+__main__:: INFO:: 2024-04-10 17:09:14,549 - 
+
+Name of the District: BEED
+
+modules.dataCollection:: INFO:: 2024-04-10 17:09:17,750 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:09:17,758 - 
+Total number of Cases: 58
+modules.dataCollection:: INFO:: 2024-04-10 17:09:17,758 - total number of records is : 58
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:09:20,496 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:09:23,941 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:09:23,955 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:09:23,955 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:09:24,452 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:09:24,455 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:09:30,085 - 
+
+Name of the District: BHANDARA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:09:34,802 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:09:34,836 - 
+Total number of Cases: 57
+modules.dataCollection:: INFO:: 2024-04-10 17:09:34,836 - total number of records is : 57
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:09:37,444 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:09:40,967 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:09:40,980 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:09:40,980 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:09:41,417 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:09:41,420 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:09:45,940 - 
+
+Name of the District: BULDHANA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:09:48,937 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:09:48,968 - 
+Total number of Cases: 107
+modules.dataCollection:: INFO:: 2024-04-10 17:09:48,968 - total number of records is : 107
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:09:51,472 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:09:53,850 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:09:53,864 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:09:53,865 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:10:06,866 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:10:09,719 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:10:09,731 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:10:09,731 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:10:10,197 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:10:10,200 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:10:13,837 - 
+
+Name of the District: CHANDRAPUR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:10:16,485 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:10:16,490 - 
+Total number of Cases: 105
+modules.dataCollection:: INFO:: 2024-04-10 17:10:16,490 - total number of records is : 105
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:10:29,495 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:10:31,759 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:10:31,771 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:10:31,771 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:10:34,292 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:10:37,107 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:10:37,119 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:10:37,119 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:10:47,859 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:10:47,863 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:10:59,063 - 
+
+Name of the District: CHHATRAPATI SAMBHAJINAGAR CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:11:01,936 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:11:01,965 - 
+Total number of Cases: 78
+modules.dataCollection:: INFO:: 2024-04-10 17:11:01,966 - total number of records is : 78
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:11:04,598 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:11:07,356 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:11:07,381 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:11:07,381 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:11:08,971 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:11:08,974 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:11:14,265 - 
+
+Name of the District: CHHATRAPATI SAMBHAJINAGAR (RURAL)
+
+modules.dataCollection:: INFO:: 2024-04-10 17:11:17,105 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:11:17,110 - 
+Total number of Cases: 51
+modules.dataCollection:: INFO:: 2024-04-10 17:11:17,110 - total number of records is : 51
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:11:30,660 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:11:33,509 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:11:33,520 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:11:33,520 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:11:33,645 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:11:33,649 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:11:37,505 - 
+
+Name of the District: DHARASHIV
+
+modules.dataCollection:: INFO:: 2024-04-10 17:11:39,635 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:11:39,641 - 
+Total number of Cases: 50
+modules.dataCollection:: INFO:: 2024-04-10 17:11:39,641 - total number of records is : 50
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:11:42,351 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:11:42,354 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:11:47,567 - 
+
+Name of the District: DHULE
+
+modules.dataCollection:: INFO:: 2024-04-10 17:11:49,207 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:11:49,213 - 
+Total number of Cases: 46
+modules.dataCollection:: INFO:: 2024-04-10 17:11:49,213 - total number of records is : 46
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:11:51,634 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:11:51,637 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:11:56,241 - 
+
+Name of the District: GADCHIROLI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:12:04,255 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:12:04,263 - 
+Total number of Cases: 33
+modules.dataCollection:: INFO:: 2024-04-10 17:12:04,263 - total number of records is : 33
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:12:06,050 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:12:06,053 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:12:12,763 - 
+
+Name of the District: GONDIA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:12:14,403 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:12:14,409 - 
+Total number of Cases: 41
+modules.dataCollection:: INFO:: 2024-04-10 17:12:14,409 - total number of records is : 41
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:12:16,578 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:12:16,581 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:12:20,304 - 
+
+Name of the District: HINGOLI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:12:22,337 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:12:22,344 - 
+Total number of Cases: 50
+modules.dataCollection:: INFO:: 2024-04-10 17:12:22,344 - total number of records is : 50
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:12:24,966 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:12:24,968 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:12:31,216 - 
+
+Name of the District: JALGAON
+
+modules.dataCollection:: INFO:: 2024-04-10 17:12:33,296 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:12:33,302 - 
+Total number of Cases: 70
+modules.dataCollection:: INFO:: 2024-04-10 17:12:33,302 - total number of records is : 70
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:12:36,071 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:12:38,265 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:12:38,272 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:12:38,272 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:12:39,544 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:12:39,548 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:12:43,215 - 
+
+Name of the District: JALNA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:12:44,997 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:12:45,003 - 
+Total number of Cases: 74
+modules.dataCollection:: INFO:: 2024-04-10 17:12:45,003 - total number of records is : 74
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:12:47,539 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:12:49,818 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:12:49,831 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:12:49,831 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:12:51,150 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:12:51,153 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:12:56,486 - 
+
+Name of the District: KOLHAPUR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:12:58,541 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:12:58,550 - 
+Total number of Cases: 80
+modules.dataCollection:: INFO:: 2024-04-10 17:12:58,550 - total number of records is : 80
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:13:01,218 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:13:04,023 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:13:04,033 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:13:04,034 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:13:05,739 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:13:05,742 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:13:11,442 - 
+
+Name of the District: LATUR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:13:14,915 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:13:14,922 - 
+Total number of Cases: 68
+modules.dataCollection:: INFO:: 2024-04-10 17:13:14,922 - total number of records is : 68
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:13:27,736 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:13:30,501 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:13:30,508 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:13:30,508 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:13:31,565 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:13:31,568 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:13:36,180 - 
+
+Name of the District: Mira-Bhayandar, Vasai-Virar Police Commissioner
+
+modules.dataCollection:: INFO:: 2024-04-10 17:13:37,910 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:13:37,917 - 
+Total number of Cases: 70
+modules.dataCollection:: INFO:: 2024-04-10 17:13:37,917 - total number of records is : 70
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:13:40,543 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:13:43,987 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:13:43,996 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:13:43,996 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:13:55,366 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:13:55,369 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:14:01,163 - 
+
+Name of the District: NAGPUR CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:14:05,366 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:14:05,371 - 
+Total number of Cases: 196
+modules.dataCollection:: INFO:: 2024-04-10 17:14:05,371 - total number of records is : 196
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:14:07,993 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:14:10,573 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:14:10,584 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:14:10,584 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:14:13,370 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:14:16,086 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:14:16,093 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:14:16,093 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:14:18,815 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:14:21,032 - p4 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:14:21,040 - p4 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:14:21,040 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:14:23,811 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:14:23,814 - pages finished. last page was p4 
+__main__:: INFO:: 2024-04-10 17:14:29,516 - 
+
+Name of the District: NAGPUR RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:14:31,722 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:14:31,728 - 
+Total number of Cases: 99
+modules.dataCollection:: INFO:: 2024-04-10 17:14:31,728 - total number of records is : 99
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:14:44,505 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:14:47,626 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:14:47,640 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:14:47,640 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:14:50,255 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:14:50,258 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:14:56,080 - 
+
+Name of the District: NANDED
+
+modules.dataCollection:: INFO:: 2024-04-10 17:14:57,659 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:14:57,700 - 
+Total number of Cases: 65
+modules.dataCollection:: INFO:: 2024-04-10 17:14:57,701 - total number of records is : 65
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:15:10,417 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:15:13,704 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:15:13,715 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:15:13,715 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:15:14,574 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:15:14,577 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:15:19,625 - 
+
+Name of the District: NANDURBAR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:15:20,776 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:15:20,783 - 
+Total number of Cases: 41
+modules.dataCollection:: INFO:: 2024-04-10 17:15:20,783 - total number of records is : 41
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:15:23,314 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:15:23,317 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:15:29,084 - 
+
+Name of the District: NASHIK CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:15:31,270 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:15:31,277 - 
+Total number of Cases: 47
+modules.dataCollection:: INFO:: 2024-04-10 17:15:31,277 - total number of records is : 47
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:15:33,784 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:15:33,787 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:15:38,906 - 
+
+Name of the District: NASHIK RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:15:40,666 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:15:40,673 - 
+Total number of Cases: 123
+modules.dataCollection:: INFO:: 2024-04-10 17:15:40,673 - total number of records is : 123
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:15:43,254 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:15:45,781 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:15:45,793 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:15:45,794 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:15:48,429 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:15:50,922 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:15:50,937 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:15:50,937 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:15:52,246 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:15:52,249 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:15:55,799 - 
+
+Name of the District: NAVI MUMBAI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:15:57,930 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:15:57,958 - 
+Total number of Cases: 125
+modules.dataCollection:: INFO:: 2024-04-10 17:15:57,958 - total number of records is : 125
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:16:00,623 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:16:03,742 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:16:03,756 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:16:03,757 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:16:06,381 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:16:08,988 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:16:08,998 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:16:08,998 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:16:10,477 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:16:10,483 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:16:15,351 - 
+
+Name of the District: PALGHAR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:16:16,645 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:16:16,652 - 
+Total number of Cases: 32
+modules.dataCollection:: INFO:: 2024-04-10 17:16:16,652 - total number of records is : 32
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:16:18,375 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:16:18,378 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:16:22,496 - 
+
+Name of the District: PARBHANI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:16:24,336 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:16:24,343 - 
+Total number of Cases: 36
+modules.dataCollection:: INFO:: 2024-04-10 17:16:24,343 - total number of records is : 36
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:16:26,319 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:16:26,323 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:16:30,982 - 
+
+Name of the District: PIMPRI-CHINCHWAD
+
+modules.dataCollection:: INFO:: 2024-04-10 17:16:32,881 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:16:32,887 - 
+Total number of Cases: 90
+modules.dataCollection:: INFO:: 2024-04-10 17:16:32,887 - total number of records is : 90
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:16:35,671 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:16:38,149 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:16:38,164 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:16:38,164 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:16:40,345 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:16:40,349 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:16:43,943 - 
+
+Name of the District: PUNE CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:16:45,700 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:16:45,707 - 
+Total number of Cases: 80
+modules.dataCollection:: INFO:: 2024-04-10 17:16:45,707 - total number of records is : 80
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:16:48,469 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:16:51,306 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:16:51,326 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:16:51,326 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:16:52,977 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:16:52,980 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:16:58,241 - 
+
+Name of the District: PUNE RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:17:00,633 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:17:00,646 - 
+Total number of Cases: 146
+modules.dataCollection:: INFO:: 2024-04-10 17:17:00,646 - total number of records is : 146
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:17:03,331 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:17:11,901 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:17:11,914 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:17:11,914 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:17:14,491 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:17:18,058 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:17:18,085 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:17:18,085 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:17:30,855 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:17:30,858 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:17:37,231 - 
+
+Name of the District: RAIGAD
+
+modules.dataCollection:: INFO:: 2024-04-10 17:17:39,401 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:17:39,407 - 
+Total number of Cases: 17
+modules.dataCollection:: INFO:: 2024-04-10 17:17:39,407 - total number of records is : 17
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:17:40,497 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:17:40,500 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:17:45,508 - 
+
+Name of the District: RAILWAY MUMBAI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:17:47,772 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:17:47,780 - 
+Total number of Cases: 161
+modules.dataCollection:: INFO:: 2024-04-10 17:17:47,780 - total number of records is : 161
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:17:50,475 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:17:53,487 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:17:53,505 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:17:53,506 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:17:56,144 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:17:58,752 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:17:58,759 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:17:58,759 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:18:01,502 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:04,157 - p4 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:18:04,169 - p4 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:18:04,169 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:18:04,849 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:04,852 - pages finished. last page was p4 
+__main__:: INFO:: 2024-04-10 17:18:09,133 - 
+
+Name of the District: RAILWAY NAGPUR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:18:10,839 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:18:10,845 - 
+Total number of Cases: 15
+modules.dataCollection:: INFO:: 2024-04-10 17:18:10,845 - total number of records is : 15
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:18:11,695 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:11,698 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:18:16,421 - 
+
+Name of the District: RAILWAY PUNE
+
+modules.dataCollection:: INFO:: 2024-04-10 17:18:17,487 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:18:17,492 - 
+Total number of Cases: 10
+modules.dataCollection:: INFO:: 2024-04-10 17:18:17,492 - total number of records is : 10
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:18:18,058 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:18,063 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:18:21,676 - 
+
+Name of the District: RATNAGIRI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:18:22,633 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:18:22,639 - 
+Total number of Cases: 17
+modules.dataCollection:: INFO:: 2024-04-10 17:18:22,639 - total number of records is : 17
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:18:23,718 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:23,721 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:18:28,356 - 
+
+Name of the District: SANGLI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:18:32,064 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:18:32,092 - 
+Total number of Cases: 54
+modules.dataCollection:: INFO:: 2024-04-10 17:18:32,092 - total number of records is : 54
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:18:34,760 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:37,841 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:18:37,857 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:18:37,857 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:18:38,169 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:38,172 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:18:42,213 - 
+
+Name of the District: SATARA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:18:44,716 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:18:44,722 - 
+Total number of Cases: 116
+modules.dataCollection:: INFO:: 2024-04-10 17:18:44,722 - total number of records is : 116
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:18:47,475 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:50,170 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:18:50,186 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:18:50,186 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:18:52,777 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:55,892 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:18:55,906 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:18:55,906 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:18:56,828 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:18:56,830 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:19:00,408 - 
+
+Name of the District: SINDHUDURG
+
+modules.dataCollection:: INFO:: 2024-04-10 17:19:01,104 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:19:01,111 - 
+Total number of Cases: 24
+modules.dataCollection:: INFO:: 2024-04-10 17:19:01,111 - total number of records is : 24
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:19:02,442 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:19:02,445 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:19:05,958 - 
+
+Name of the District: SOLAPUR CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:19:07,601 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:19:07,608 - 
+Total number of Cases: 25
+modules.dataCollection:: INFO:: 2024-04-10 17:19:07,608 - total number of records is : 25
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:19:09,082 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:19:09,085 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:19:14,362 - 
+
+Name of the District: SOLAPUR RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:19:16,387 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:19:16,396 - 
+Total number of Cases: 116
+modules.dataCollection:: INFO:: 2024-04-10 17:19:16,396 - total number of records is : 116
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:19:19,129 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:19:21,775 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:19:21,801 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:19:21,801 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:19:26,414 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:19:31,840 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:19:31,865 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:19:31,866 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:19:33,524 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:19:33,528 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:19:38,530 - 
+
+Name of the District: THANE CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:19:42,104 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:19:42,115 - 
+Total number of Cases: 125
+modules.dataCollection:: INFO:: 2024-04-10 17:19:42,116 - total number of records is : 125
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:19:46,841 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:19:50,750 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:19:50,774 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:19:50,774 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:19:55,470 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:01,573 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:20:01,598 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:20:01,598 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:20:04,082 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:04,087 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:20:09,766 - 
+
+Name of the District: THANE RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:20:13,701 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:20:13,703 - 
+Total number of Cases: 46
+modules.dataCollection:: INFO:: 2024-04-10 17:20:13,703 - total number of records is : 46
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:20:15,004 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:15,005 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:20:20,986 - 
+
+Name of the District: WARDHA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:20:23,543 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:20:23,549 - 
+Total number of Cases: 121
+modules.dataCollection:: INFO:: 2024-04-10 17:20:23,549 - total number of records is : 121
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:20:24,993 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:26,784 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:20:26,796 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:20:26,796 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:20:28,253 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:30,622 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:20:30,629 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:20:30,629 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:20:31,323 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:31,324 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:20:35,564 - 
+
+Name of the District: WASHIM
+
+modules.dataCollection:: INFO:: 2024-04-10 17:20:38,555 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:20:38,558 - 
+Total number of Cases: 53
+modules.dataCollection:: INFO:: 2024-04-10 17:20:38,558 - total number of records is : 53
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:20:39,992 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:42,307 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:20:42,312 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:20:42,313 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:20:42,435 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:42,437 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:20:46,333 - 
+
+Name of the District: YAVATMAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:20:48,232 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:20:48,235 - 
+Total number of Cases: 109
+modules.dataCollection:: INFO:: 2024-04-10 17:20:48,235 - total number of records is : 109
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:20:49,689 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:52,061 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:20:52,068 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:20:52,069 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:20:53,552 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:56,017 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:20:56,025 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:20:56,025 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:20:56,336 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:20:56,338 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:20:56,338 - 
+
+16012023 to 18012023
+
+
+__main__:: INFO:: 2024-04-10 17:20:59,824 - 
+
+Name of the District: AHMEDNAGAR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:21:01,447 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:21:01,467 - 
+Total number of Cases: 215
+modules.dataCollection:: INFO:: 2024-04-10 17:21:01,467 - total number of records is : 215
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:21:02,970 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:21:05,697 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:21:05,704 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:21:05,704 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:21:07,193 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:21:09,848 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:21:09,854 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:21:09,854 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:21:11,354 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:21:13,447 - p4 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:21:13,459 - p4 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:21:13,459 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:21:14,966 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:21:16,950 - p5 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:21:16,963 - p5 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:21:16,963 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:21:17,526 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:21:17,528 - pages finished. last page was p5 
+__main__:: INFO:: 2024-04-10 17:21:21,528 - 
+
+Name of the District: AKOLA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:21:23,629 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:21:23,649 - 
+Total number of Cases: 74
+modules.dataCollection:: INFO:: 2024-04-10 17:21:23,649 - total number of records is : 74
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:21:35,413 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:21:38,939 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:21:38,942 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:21:38,942 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:21:49,950 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:21:49,952 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:21:55,110 - 
+
+Name of the District: AMRAVATI CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:21:57,253 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:21:57,256 - 
+Total number of Cases: 80
+modules.dataCollection:: INFO:: 2024-04-10 17:21:57,256 - total number of records is : 80
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:21:58,793 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:22:02,481 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:22:02,485 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:22:02,486 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:22:03,482 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:22:03,484 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:22:15,692 - 
+
+Name of the District: AMRAVATI RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:22:18,115 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:22:18,159 - 
+Total number of Cases: 143
+modules.dataCollection:: INFO:: 2024-04-10 17:22:18,159 - total number of records is : 143
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:22:19,750 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:22:22,354 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:22:22,366 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:22:22,367 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:22:23,935 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:22:26,275 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:22:26,288 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:22:26,288 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:22:27,704 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:22:27,706 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:22:32,006 - 
+
+Name of the District: BEED
+
+modules.dataCollection:: INFO:: 2024-04-10 17:22:35,051 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:22:35,054 - 
+Total number of Cases: 60
+modules.dataCollection:: INFO:: 2024-04-10 17:22:35,054 - total number of records is : 60
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:22:46,951 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:22:49,496 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:22:49,501 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:22:49,501 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:23:00,061 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:23:00,063 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:23:05,543 - 
+
+Name of the District: BHANDARA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:23:08,970 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:23:08,972 - 
+Total number of Cases: 31
+modules.dataCollection:: INFO:: 2024-04-10 17:23:08,972 - total number of records is : 31
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:23:09,933 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:23:09,935 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:23:14,546 - 
+
+Name of the District: BULDHANA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:23:18,251 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:23:18,254 - 
+Total number of Cases: 109
+modules.dataCollection:: INFO:: 2024-04-10 17:23:18,254 - total number of records is : 109
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:23:19,715 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:23:22,968 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:23:22,974 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:23:22,974 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:23:24,504 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:23:27,605 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:23:27,612 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:23:27,612 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:23:27,917 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:23:27,918 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:23:33,554 - 
+
+Name of the District: CHANDRAPUR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:23:37,405 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:23:37,414 - 
+Total number of Cases: 124
+modules.dataCollection:: INFO:: 2024-04-10 17:23:37,414 - total number of records is : 124
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:23:38,957 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:23:40,823 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:23:40,848 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:23:40,848 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:23:42,323 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:23:45,101 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:23:45,107 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:23:45,107 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:23:45,895 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:23:45,896 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:23:50,411 - 
+
+Name of the District: CHHATRAPATI SAMBHAJINAGAR CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:23:52,636 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:23:52,654 - 
+Total number of Cases: 41
+modules.dataCollection:: INFO:: 2024-04-10 17:23:52,654 - total number of records is : 41
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:23:53,890 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:23:53,891 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:23:59,568 - 
+
+Name of the District: CHHATRAPATI SAMBHAJINAGAR (RURAL)
+
+modules.dataCollection:: INFO:: 2024-04-10 17:24:01,981 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:24:01,999 - 
+Total number of Cases: 61
+modules.dataCollection:: INFO:: 2024-04-10 17:24:01,999 - total number of records is : 61
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:24:03,505 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:24:06,732 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:24:06,739 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:24:06,739 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:24:07,109 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:24:07,110 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:24:10,897 - 
+
+Name of the District: DHARASHIV
+
+modules.dataCollection:: INFO:: 2024-04-10 17:24:14,417 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:24:14,420 - 
+Total number of Cases: 63
+modules.dataCollection:: INFO:: 2024-04-10 17:24:14,420 - total number of records is : 63
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:24:36,388 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:24:39,236 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:24:39,239 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:24:39,240 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:25:00,116 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:25:00,118 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:25:05,629 - 
+
+Name of the District: DHULE
+
+modules.dataCollection:: INFO:: 2024-04-10 17:25:07,380 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:25:07,383 - 
+Total number of Cases: 36
+modules.dataCollection:: INFO:: 2024-04-10 17:25:07,383 - total number of records is : 36
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:25:18,977 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:25:18,979 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:25:25,146 - 
+
+Name of the District: GADCHIROLI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:25:27,226 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:25:27,230 - 
+Total number of Cases: 35
+modules.dataCollection:: INFO:: 2024-04-10 17:25:27,230 - total number of records is : 35
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:25:28,305 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:25:28,307 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:25:32,115 - 
+
+Name of the District: GONDIA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:25:33,808 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:25:33,828 - 
+Total number of Cases: 51
+modules.dataCollection:: INFO:: 2024-04-10 17:25:33,828 - total number of records is : 51
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:25:35,328 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:25:37,329 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:25:37,336 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:25:37,336 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:25:37,402 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:25:37,403 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:25:41,653 - 
+
+Name of the District: HINGOLI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:25:43,286 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:25:43,289 - 
+Total number of Cases: 53
+modules.dataCollection:: INFO:: 2024-04-10 17:25:43,289 - total number of records is : 53
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:26:05,183 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:26:08,450 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:26:08,454 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:26:08,454 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:26:08,582 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:26:08,584 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:26:12,310 - 
+
+Name of the District: JALGAON
+
+modules.dataCollection:: INFO:: 2024-04-10 17:26:16,532 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:26:16,549 - 
+Total number of Cases: 74
+modules.dataCollection:: INFO:: 2024-04-10 17:26:16,550 - total number of records is : 74
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:26:18,016 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:26:21,117 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:26:21,124 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:26:21,124 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:26:21,900 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:26:21,901 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:26:26,151 - 
+
+Name of the District: JALNA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:26:28,268 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:26:28,271 - 
+Total number of Cases: 65
+modules.dataCollection:: INFO:: 2024-04-10 17:26:28,271 - total number of records is : 65
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:26:39,944 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:26:42,763 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:26:42,771 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:26:42,771 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:26:43,292 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:26:43,294 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:26:47,563 - 
+
+Name of the District: KOLHAPUR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:26:49,166 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:26:49,169 - 
+Total number of Cases: 99
+modules.dataCollection:: INFO:: 2024-04-10 17:26:49,169 - total number of records is : 99
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:26:50,752 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:26:52,656 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:26:52,659 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:26:52,659 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:26:54,078 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:26:54,080 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:26:58,955 - 
+
+Name of the District: LATUR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:27:00,969 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:27:00,973 - 
+Total number of Cases: 92
+modules.dataCollection:: INFO:: 2024-04-10 17:27:00,973 - total number of records is : 92
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:27:22,899 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:27:26,739 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:27:26,752 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:27:26,752 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:27:28,024 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:27:28,026 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:27:32,188 - 
+
+Name of the District: Mira-Bhayandar, Vasai-Virar Police Commissioner
+
+modules.dataCollection:: INFO:: 2024-04-10 17:27:33,916 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:27:33,919 - 
+Total number of Cases: 77
+modules.dataCollection:: INFO:: 2024-04-10 17:27:33,919 - total number of records is : 77
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:27:35,339 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:27:38,056 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:27:38,059 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:27:38,059 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:27:39,000 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:27:39,001 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:27:42,713 - 
+
+Name of the District: NAGPUR CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:27:44,648 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:27:44,651 - 
+Total number of Cases: 129
+modules.dataCollection:: INFO:: 2024-04-10 17:27:44,651 - total number of records is : 129
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:27:46,124 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:27:48,698 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:27:48,707 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:27:48,707 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:27:50,121 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:27:53,214 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:27:53,220 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:27:53,220 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:27:54,124 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:27:54,125 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:27:58,041 - 
+
+Name of the District: NAGPUR RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:28:00,165 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:28:00,184 - 
+Total number of Cases: 95
+modules.dataCollection:: INFO:: 2024-04-10 17:28:00,184 - total number of records is : 95
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:28:01,657 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:28:03,907 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:28:03,913 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:28:03,913 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:28:05,279 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:28:05,280 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:28:10,018 - 
+
+Name of the District: NANDED
+
+modules.dataCollection:: INFO:: 2024-04-10 17:28:11,701 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:28:11,703 - 
+Total number of Cases: 85
+modules.dataCollection:: INFO:: 2024-04-10 17:28:11,703 - total number of records is : 85
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:28:23,470 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:28:25,928 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:28:25,933 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:28:25,933 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:28:27,001 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:28:27,003 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:28:30,372 - 
+
+Name of the District: NANDURBAR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:28:31,126 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:28:31,142 - 
+Total number of Cases: 52
+modules.dataCollection:: INFO:: 2024-04-10 17:28:31,142 - total number of records is : 52
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:28:32,559 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:28:33,437 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:28:33,440 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:28:33,440 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:28:33,539 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:28:33,540 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:28:37,478 - 
+
+Name of the District: NASHIK CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:28:39,155 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:28:39,159 - 
+Total number of Cases: 43
+modules.dataCollection:: INFO:: 2024-04-10 17:28:39,159 - total number of records is : 43
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:28:40,426 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:28:40,428 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:28:45,746 - 
+
+Name of the District: NASHIK RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:28:47,307 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:28:47,309 - 
+Total number of Cases: 94
+modules.dataCollection:: INFO:: 2024-04-10 17:28:47,310 - total number of records is : 94
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:28:48,798 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:28:51,079 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:28:51,084 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:28:51,084 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:28:52,398 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:28:52,400 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:28:56,266 - 
+
+Name of the District: NAVI MUMBAI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:28:57,912 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:28:57,915 - 
+Total number of Cases: 85
+modules.dataCollection:: INFO:: 2024-04-10 17:28:57,915 - total number of records is : 85
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:28:59,501 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:02,728 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:29:02,732 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:29:02,732 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:29:03,892 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:03,894 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:29:07,665 - 
+
+Name of the District: PALGHAR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:29:08,429 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:29:08,451 - 
+Total number of Cases: 24
+modules.dataCollection:: INFO:: 2024-04-10 17:29:08,451 - total number of records is : 24
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:29:09,184 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:09,185 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:29:13,090 - 
+
+Name of the District: PARBHANI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:29:14,648 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:29:14,651 - 
+Total number of Cases: 40
+modules.dataCollection:: INFO:: 2024-04-10 17:29:14,651 - total number of records is : 40
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:29:15,830 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:15,832 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:29:19,509 - 
+
+Name of the District: PIMPRI-CHINCHWAD
+
+modules.dataCollection:: INFO:: 2024-04-10 17:29:21,673 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:29:21,680 - 
+Total number of Cases: 106
+modules.dataCollection:: INFO:: 2024-04-10 17:29:21,680 - total number of records is : 106
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:29:23,270 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:25,306 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:29:25,311 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:29:25,312 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:29:26,946 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:28,870 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:29:28,874 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:29:28,875 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:29:29,096 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:29,097 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:29:33,836 - 
+
+Name of the District: PUNE CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:29:36,021 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:29:36,024 - 
+Total number of Cases: 118
+modules.dataCollection:: INFO:: 2024-04-10 17:29:36,024 - total number of records is : 118
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:29:37,499 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:40,029 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:29:40,036 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:29:40,037 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:29:41,523 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:43,622 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:29:43,629 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:29:43,629 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:29:44,239 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:29:44,241 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:29:47,819 - 
+
+Name of the District: PUNE RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:29:50,074 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:29:50,077 - 
+Total number of Cases: 130
+modules.dataCollection:: INFO:: 2024-04-10 17:29:50,077 - total number of records is : 130
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:30:01,829 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:30:04,211 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:30:04,229 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:30:04,229 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:30:26,291 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:30:29,761 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:30:29,766 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:30:29,766 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:30:30,718 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:30:30,720 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:30:35,892 - 
+
+Name of the District: RAIGAD
+
+modules.dataCollection:: INFO:: 2024-04-10 17:30:38,480 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:30:38,483 - 
+Total number of Cases: 43
+modules.dataCollection:: INFO:: 2024-04-10 17:30:38,483 - total number of records is : 43
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:30:49,971 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:30:49,973 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:30:54,659 - 
+
+Name of the District: RAILWAY MUMBAI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:30:59,720 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:30:59,724 - 
+Total number of Cases: 144
+modules.dataCollection:: INFO:: 2024-04-10 17:30:59,724 - total number of records is : 144
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:31:01,232 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:31:03,746 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:31:03,752 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:31:03,752 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:31:05,217 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:31:08,661 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:31:08,671 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:31:08,671 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:31:10,025 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:31:10,027 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:31:14,797 - 
+
+Name of the District: RAILWAY NAGPUR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:31:21,530 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:31:21,535 - 
+Total number of Cases: 25
+modules.dataCollection:: INFO:: 2024-04-10 17:31:21,535 - total number of records is : 25
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:31:22,304 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:31:22,305 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:31:28,681 - 
+
+Name of the District: RAILWAY PUNE
+
+modules.dataCollection:: INFO:: 2024-04-10 17:31:32,045 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:31:32,049 - 
+Total number of Cases: 9
+modules.dataCollection:: INFO:: 2024-04-10 17:31:32,049 - total number of records is : 9
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:31:32,333 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:31:32,334 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:31:41,997 - 
+
+Name of the District: RATNAGIRI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:31:42,890 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:31:42,892 - 
+Total number of Cases: 17
+modules.dataCollection:: INFO:: 2024-04-10 17:31:42,892 - total number of records is : 17
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:31:43,467 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:31:43,469 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:31:52,805 - 
+
+Name of the District: SANGLI
+
+modules.dataCollection:: INFO:: 2024-04-10 17:32:00,567 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:32:00,571 - 
+Total number of Cases: 64
+modules.dataCollection:: INFO:: 2024-04-10 17:32:00,571 - total number of records is : 64
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:32:02,024 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:32:06,542 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:32:06,555 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:32:06,555 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:32:07,115 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:32:07,117 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:32:12,603 - 
+
+Name of the District: SATARA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:32:15,091 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:32:15,112 - 
+Total number of Cases: 151
+modules.dataCollection:: INFO:: 2024-04-10 17:32:15,113 - total number of records is : 151
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:32:16,656 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:32:21,878 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:32:26,987 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:32:26,987 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:32:28,440 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:32:34,237 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:32:34,241 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:32:34,241 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:32:35,724 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:32:37,908 - p4 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:32:37,920 - p4 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:32:37,920 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:32:38,014 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:32:38,015 - pages finished. last page was p4 
+__main__:: INFO:: 2024-04-10 17:32:41,991 - 
+
+Name of the District: SINDHUDURG
+
+modules.dataCollection:: INFO:: 2024-04-10 17:32:43,553 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:32:43,557 - 
+Total number of Cases: 28
+modules.dataCollection:: INFO:: 2024-04-10 17:32:43,558 - total number of records is : 28
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:32:44,497 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:32:44,499 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:32:52,071 - 
+
+Name of the District: SOLAPUR CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:32:57,224 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:32:57,228 - 
+Total number of Cases: 21
+modules.dataCollection:: INFO:: 2024-04-10 17:32:57,228 - total number of records is : 21
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:32:57,894 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:32:57,896 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:33:02,135 - 
+
+Name of the District: SOLAPUR RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:33:05,293 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:33:05,299 - 
+Total number of Cases: 121
+modules.dataCollection:: INFO:: 2024-04-10 17:33:05,300 - total number of records is : 121
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:33:06,914 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:33:12,134 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:33:13,665 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:33:13,665 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:33:15,141 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:33:17,286 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:33:17,298 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:33:17,298 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:33:17,990 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:33:17,992 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:33:24,780 - 
+
+Name of the District: THANE CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:33:27,824 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:33:27,831 - 
+Total number of Cases: 131
+modules.dataCollection:: INFO:: 2024-04-10 17:33:27,831 - total number of records is : 131
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:33:29,317 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:33:33,245 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:33:33,252 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:33:33,252 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:33:45,006 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:33:47,508 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:33:47,515 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:33:47,516 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:33:48,549 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:33:48,550 - pages finished. last page was p3 
+__main__:: INFO:: 2024-04-10 17:33:56,896 - 
+
+Name of the District: THANE RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:33:58,611 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:33:58,616 - 
+Total number of Cases: 38
+modules.dataCollection:: INFO:: 2024-04-10 17:33:58,616 - total number of records is : 38
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:33:59,868 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:33:59,869 - pages finished. last page was p1 
+__main__:: INFO:: 2024-04-10 17:34:04,373 - 
+
+Name of the District: WARDHA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:34:11,907 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:34:11,913 - 
+Total number of Cases: 159
+modules.dataCollection:: INFO:: 2024-04-10 17:34:11,913 - total number of records is : 159
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:34:13,445 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:34:18,448 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:34:18,454 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:34:18,454 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:34:19,960 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:34:23,764 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:34:23,768 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:34:23,768 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:34:25,258 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:34:27,640 - p4 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:34:27,649 - p4 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:34:27,650 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:34:27,960 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:34:27,961 - pages finished. last page was p4 
+__main__:: INFO:: 2024-04-10 17:34:35,805 - 
+
+Name of the District: WASHIM
+
+modules.dataCollection:: INFO:: 2024-04-10 17:34:37,770 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:34:37,773 - 
+Total number of Cases: 55
+modules.dataCollection:: INFO:: 2024-04-10 17:34:37,773 - total number of records is : 55
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:34:39,375 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:34:42,898 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:34:42,902 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:34:42,902 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:34:43,119 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:34:43,120 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:34:47,341 - 
+
+Name of the District: YAVATMAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:34:52,012 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:34:52,031 - 
+Total number of Cases: 160
+modules.dataCollection:: INFO:: 2024-04-10 17:34:52,031 - total number of records is : 160
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:34:53,579 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:34:58,798 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:35:02,894 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:35:02,894 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:35:04,423 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:35:07,249 - p3 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:35:07,252 - p3 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:35:07,253 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:35:08,711 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:35:10,854 - p4 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:35:10,862 - p4 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:35:10,862 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:35:11,215 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:35:11,217 - pages finished. last page was p4 
+__main__:: INFO:: 2024-04-10 17:35:11,217 - 
+
+19012023 to 21012023
+
+
+__main__:: INFO:: 2024-04-10 17:35:20,491 - 
+
+Name of the District: AHMEDNAGAR
+
+modules.dataCollection:: INFO:: 2024-04-10 17:35:30,787 - page did not load after search
+Traceback (most recent call last):
+  File "/home/sangharsh/Documents/codes/CaseAnalysis/caMah2/modules/dataCollection.py", line 68, in search
+    (WebDriverWait(self.driver, 10).until(
+  File "/home/sangharsh/.local/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+__main__:: INFO:: 2024-04-10 17:35:30,798 - Search button didn't work with AHMEDNAGAR. Going to next district
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:35:30,806 - 
+Total number of Cases: 
+__main__:: INFO:: 2024-04-10 17:35:40,395 - 
+
+Name of the District: AKOLA
+
+modules.dataCollection:: INFO:: 2024-04-10 17:35:50,708 - page did not load after search
+Traceback (most recent call last):
+  File "/home/sangharsh/Documents/codes/CaseAnalysis/caMah2/modules/dataCollection.py", line 68, in search
+    (WebDriverWait(self.driver, 10).until(
+  File "/home/sangharsh/.local/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+__main__:: INFO:: 2024-04-10 17:35:50,709 - Search button didn't work with AKOLA. Going to next district
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:35:50,719 - 
+Total number of Cases: 
+__main__:: INFO:: 2024-04-10 17:36:00,146 - 
+
+Name of the District: AMRAVATI CITY
+
+modules.dataCollection:: INFO:: 2024-04-10 17:36:04,162 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:36:04,181 - 
+Total number of Cases: 68
+modules.dataCollection:: INFO:: 2024-04-10 17:36:04,181 - total number of records is : 68
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:36:05,644 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:36:08,406 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:36:08,409 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:36:08,409 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:36:09,014 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:36:09,015 - pages finished. last page was p2 
+__main__:: INFO:: 2024-04-10 17:36:13,566 - 
+
+Name of the District: AMRAVATI RURAL
+
+modules.dataCollection:: INFO:: 2024-04-10 17:36:19,385 - search clicked. records found
+modules.dataCollection:: INFO:: 2024-04-10 17:36:19,388 - 
+Total number of Cases: 149
+modules.dataCollection:: INFO:: 2024-04-10 17:36:19,388 - total number of records is : 149
+p1 started
+modules.dataCollection:: INFO:: 2024-04-10 17:36:20,940 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:36:22,937 - p2 clicked
+modules.dataCollection:: INFO:: 2024-04-10 17:36:22,940 - p2 loaded
+modules.dataCollection:: INFO:: 2024-04-10 17:36:22,940 - checking and downloading copies
+modules.dataCollection:: INFO:: 2024-04-10 17:36:34,727 - checking finished
+NoneType: None
+modules.dataCollection:: INFO:: 2024-04-10 17:36:34,935 - p3 clicked
+modules.dataCollection:: WARNING:: 2024-04-10 17:36:45,131 -  problem @ p2
+Traceback (most recent call last):
+  File "/home/sangharsh/Documents/codes/CaseAnalysis/caMah2/modules/dataCollection.py", line 186, in each_page
+    WebDriverWait(self.driver, 10).until(expected_conditions.text_to_be_present_in_element(
+  File "/home/sangharsh/.local/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+modules.dataCollection:: INFO:: 2024-04-10 17:36:45,138 - 
+Total number of Cases: 149
+__main__:: INFO:: 2024-04-10 17:36:51,999 - 
+
+Name of the District: BEED
+
+modules.dataCollection:: INFO:: 2024-04-10 17:37:07,316 - page did not load after search
+Traceback (most recent call last):
+  File "/home/sangharsh/Documents/codes/CaseAnalysis/caMah2/modules/dataCollection.py", line 68, in search
+    (WebDriverWait(self.driver, 10).until(
+  File "/home/sangharsh/.local/lib/python3.10/site-packages/selenium/webdriver/support/wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+__main__:: INFO:: 2024-04-10 17:37:07,317 - Search button didn't work with BEED. Going to next district
+NoneType: None
