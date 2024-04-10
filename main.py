@@ -37,7 +37,7 @@ def main():
     ch.setLevel(logging.WARNING)
     logger.addHandler(ch)
 
-    start = datetime.date(2023, 1, 13)
+    start = datetime.date(2023, 1, 19)
     end = datetime.date(2023, 6, 30)
 
     download_dir = Path(f'/home/sangharsh/Documents/PoA/'
@@ -84,8 +84,10 @@ def main():
             each_district.open_page(main_url=main_url)
             each_district.enter_date()
             each_district.district_selection()
-            each_district.view_record()
-            logger.info(f'\n\nName of the District: {name}\n')
+            if each_district.view_record():
+                logger.info(f'\n\nName of the District: {name}\n')
+            else:
+                continue
             """click search and see if page is loaded, 
             if not, put the district in remaining district csv, 
             and start with new district"""
