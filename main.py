@@ -88,14 +88,13 @@ def main():
             """click search and see if page is loaded, 
             if not, put the district in remaining district csv, 
             and start with new district"""
-            if each_district.number_of_records():
-                logger.info(f'\n\nName of the District: {name}\n')
+            if each_district.search():
+                pass
             else:
                 logger.info(f"Search button didn't work with {name}."
                             f" Going to next district\n", exc_info=True)
                 each_district.remaining_district()
                 continue
-            each_district.search()
             if each_district.each_page():
                 pass
             else:
