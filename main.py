@@ -37,7 +37,7 @@ def main():
     ch.setLevel(logging.WARNING)
     logger.addHandler(ch)
 
-    start = datetime.date(2023, 1, 1)
+    start = datetime.date(2023, 1, 13)
     end = datetime.date(2023, 6, 30)
 
     download_dir = Path(f'/home/sangharsh/Documents/PoA/'
