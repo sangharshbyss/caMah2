@@ -108,8 +108,7 @@ class EachDistrict:
                     download_link = row.find_element(By.TAG_NAME, "input")
                     download_link.click()
                     time.sleep(5)
-        # logging
-        logger.info("checking finished\n", exc_info=True)
+
 
     # writing data to file:
     # creates two sepearte files.
@@ -183,7 +182,7 @@ class EachDistrict:
             except (TimeoutError, TimeoutException, InvalidSessionIdException,
                     NoSuchElementException,
                     StaleElementReferenceException):
-                logger.info(f"pages finished. last page was p{i-1} ")
+                logger.info(f"pages finished. last page was p{i-1}\n")
                 return True
             try:
                 WebDriverWait(self.driver, 10).until(expected_conditions.text_to_be_present_in_element(
@@ -198,7 +197,7 @@ class EachDistrict:
                     StaleElementReferenceException):
                 # close the driver.
                 problem_page = i
-                logger.warning(f" problem @ p{problem_page}", exc_info=True)
+                logger.warning(f"problem @ p{problem_page} with {self.name}", exc_info=True)
                 self.remaining_district()
                 return False
             # for going to next page and checking if next page is loaded:

@@ -28,9 +28,12 @@ all_districts = ['AHMEDNAGAR', 'AKOLA', 'AMRAVATI CITY', 'AMRAVATI RURAL', 'BEED
 
 
 def main():
+    start = datetime.date(2023, 5, 16)
+    end = datetime.date(2023, 12, 31)
     logger = logging.getLogger(__name__)
     logging_file = "info.log"
-    logging_dir = Path(f'/home/sangharsh/Documents/codes/CaseAnalysis/caMah2/logging')
+    logging_dir = Path(f'/home/sangharsh/Documents/codes/CaseAnalysis/'
+                       f'caMah2/logging/{start}')
     logging_dir.mkdir(parents=True, exist_ok=True)
     logging.basicConfig(filename=logging_dir / logging_file,
                         format='%(name)s:: %(levelname)s:: %(asctime)s - %(message)s',
@@ -38,9 +41,6 @@ def main():
     ch = logging.StreamHandler()
     ch.setLevel(logging.WARNING)
     logger.addHandler(ch)
-
-    start = datetime.date(2023, 1, 19)
-    end = datetime.date(2023, 6, 30)
 
     download_dir = Path(f'/home/sangharsh/Documents/PoA/'
                         f'data/FIR/FIR_copies/{start}_{end}')
@@ -77,7 +77,7 @@ def main():
         # covert to string. only string values can be inserted.
         from_date = start.strftime("%d%m%Y")
         to_date = d2.strftime("%d%m%Y")
-        logger.info(f'\n\n\n{from_date} to {to_date}\n\n')
+        logger.info(f'\n\n\n\n {from_date} to {to_date}\n\n\n')
         for name in all_districts:
             each_district = dataCollection.EachDistrict(driver=driver,
                                                         from_date=from_date,
@@ -86,6 +86,7 @@ def main():
             each_district.open_page(main_url=main_url)
             each_district.enter_date()
             each_district.district_selection()
+            logger.info(f'\n{name} selected')
             each_district.view_record()
             """click search and see if page is loaded, 
             if not, put the district in remaining district csv, 
@@ -93,8 +94,6 @@ def main():
             if each_district.search():
                 pass
             else:
-                logger.info(f"Search button didn't work with {name}."
-                            f" Going to next district\n", exc_info=True)
                 each_district.remaining_district()
                 continue
             if each_district.each_page():
@@ -102,9 +101,9 @@ def main():
             else:
                 continue
         start += datetime.timedelta(3)
-        time.sleep(5)
+        time.sleep(60)
 
-    logger.info("all districts in given time frame finished finished. ")
+    logger.info("all districts in given time frame finished finished.")
 
 
 if __name__ == "__main__":
