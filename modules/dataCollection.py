@@ -82,7 +82,7 @@ class EachDistrict:
         try:
             total_number = self.driver.find_element(By.CSS_SELECTOR,
                                                     '#ContentPlaceHolder1_lbltotalrecord').text
-            logger.info(f'\nTotal number of Cases: {total_number}')
+            logger.info(f'\n\nTotal Cases at {self.name}: {total_number}')
             return total_number
         except (NoSuchElementException,
                 TimeoutError, NoSuchElementException,
@@ -159,11 +159,8 @@ class EachDistrict:
 
     # 9 turn pages in loop and does further process
     def each_page(self):
-        # before calling next page
-        # this function stores data on 1st page and then iterate over all pages
-        total_number_of_records = self.number_of_records()
-        logger.info(f"total number of records is : {total_number_of_records}"
-                    f"\np1 started")
+        """before calling next page,
+        this function stores data on 1st page and then iterate over all pages"""
         try:
             self.df_to_file()
             self.check_and_download()

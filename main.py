@@ -2,6 +2,8 @@
 Visit the website. enter details. take the data.
 """
 import datetime
+import time
+
 import logging
 from pathlib import Path
 
@@ -75,7 +77,7 @@ def main():
         # covert to string. only string values can be inserted.
         from_date = start.strftime("%d%m%Y")
         to_date = d2.strftime("%d%m%Y")
-        logger.info(f'\n\n{from_date} to {to_date}\n\n')
+        logger.info(f'\n\n\n{from_date} to {to_date}\n\n')
         for name in all_districts:
             each_district = dataCollection.EachDistrict(driver=driver,
                                                         from_date=from_date,
@@ -100,6 +102,7 @@ def main():
             else:
                 continue
         start += datetime.timedelta(3)
+        time.sleep(5)
 
     logger.info("all districts in given time frame finished finished. ")
 
