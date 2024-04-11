@@ -197,8 +197,8 @@ class EachDistrict:
                     NoSuchElementException,
                     StaleElementReferenceException):
                 # close the driver.
-                last_page = i-1
-                logger.warning(f" problem @ p{last_page}", exc_info=True)
+                problem_page = i
+                logger.warning(f" problem @ p{problem_page}", exc_info=True)
                 self.remaining_district()
                 return False
             # for going to next page and checking if next page is loaded:
