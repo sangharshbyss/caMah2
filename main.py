@@ -28,7 +28,7 @@ all_districts = ['AHMEDNAGAR', 'AKOLA', 'AMRAVATI CITY', 'AMRAVATI RURAL', 'BEED
 
 
 def main():
-    start = datetime.date(2023, 5, 16)
+    start = datetime.date(2023, 5, 25)
     end = datetime.date(2023, 12, 31)
     logger = logging.getLogger(__name__)
     logging_file = "info.log"
